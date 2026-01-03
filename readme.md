@@ -1,4 +1,4 @@
-# Multi LLM Interface
+# Multi LLM RequestsType
 
 Простий Python-інструмент для одночасного отримання відповідей від декількох LLM через OpenRouter API.
 
